@@ -45,7 +45,7 @@ main {
 .card {
     background-color: var(--white);
     width: 22rem;
-    padding: 3rem;
+    padding: 1rem;
     border-radius: 20px;
     display: flex;
     flex-direction: column;
@@ -55,7 +55,7 @@ main {
 .card img {
     width: 20rem;
 }
-.card h2 {
+.card h1 {
     font-size: 1.5rem;
     font-weight: 700;
     margin: 1em 0;
@@ -76,7 +76,7 @@ main {
     .card img {
         width: 15rem;
     }
-    .card h2 {
+    .card h1 {
         font-size: 1rem;
     }
     .card p {
